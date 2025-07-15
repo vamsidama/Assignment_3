@@ -1,7 +1,9 @@
 # Assignment_3
 # NumPy Assignment – ICP3
 Name: Dama Vamsi
+
 Course: Big Data Analytics
+
 Reg no: 700771673
 
 This repository contains solutions for the **ICP3 NumPy Assignment**. The focus is on mastering NumPy operations such as array manipulation, reshaping, and linear algebra.
